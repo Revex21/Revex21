@@ -2,10 +2,6 @@
 
 **Coding minecraft and python scripts**
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/revex21?sub_confirmation=1">
-      </a>
-   </p>
 
 ---
 
